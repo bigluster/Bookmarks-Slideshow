@@ -1,0 +1,9 @@
+{
+	"name" : "Bookmarks Slideshow",
+	"description" : "",
+	"icon" : "extension",
+	"type" : "visualization",
+	"version": "1.0",
+    "preview" : "FEI-BookmarksSlideshow.png",
+	"author" : "Fady Heiba"
+}
