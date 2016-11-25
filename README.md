@@ -7,6 +7,8 @@ This can be useful on a large flat screen TV in the middle of the office running
 ###How It Works:
 After selecting the refresh interval and what bookmarks and sheets you'd like the slideshow to run through, you can press the button and it will start running through the selections/sheets dynamically in a smooth manner. To stop the slideshow, simply refresh the page.
 
+##Examples:
+####Excuse the very slow server this was demonstrated on.
 ###Bookmark Slideshow on the Same Sheet:
 ![alt tag](https://github.com/fadyheiba/Bookmarks-Slideshow/blob/master/FEI-BookmarkSlideshow/BookmarksSlideshow-SameSheet.gif)
 
