@@ -1,6 +1,6 @@
 {
 	"name" : "Bookmarks Slideshow",
-	"description" : "",
+	"description" : "Sets in motion a slideshow of bookmarks across one or multiple sheets.",
 	"icon" : "extension",
 	"type" : "visualization",
 	"version": "1.0",
